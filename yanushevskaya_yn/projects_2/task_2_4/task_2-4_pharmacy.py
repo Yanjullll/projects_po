@@ -6,4 +6,4 @@ remainder = quantity % capacity
 
 print(f'--- Отчет фасовочного цеха ---\n'
     f'Полных упаковок: {full_packages}\n'
-    f'Остаток капсул: {capacity}')
+    f'Остаток капсул: {remainder}')
